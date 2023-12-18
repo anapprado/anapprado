@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anapprado
-- 🌐 Background: MBA and Psychology enthusiast
+- 🌐 Background: MBA and Psychology
 - 🌱 I’m currently learning Python for exciting coding adventures
 - 🛠 Operations Specialist passionate about optimizing processes
 - 💡 Embracing challenges and connecting with people along the way
