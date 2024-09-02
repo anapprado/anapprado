@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @anapprado
-- 🌐 Background: MBA and Psychology
-- 🌱 I’m currently learning Python for exciting coding adventures
-- 🛠 Operations Specialist passionate about optimizing processes
-- 💡 Embracing challenges and connecting with people along the way
-  
-Excited about the possibilities that tech and human bring together! 
-Let's code, optimize, and build something amazing. 
-Connect with me for collaborative ventures and engaging discussions! 🚀👨‍💻🤝
+Hello! 
+
+I'm Ana. I have an MBA and a background in Psychology. 
+Currently, I am learning to code for exciting new adventures in the field. 
+As an Operations Specialist, I am passionate about optimizing processes. 
+I am always up for embracing challenges and enjoy connecting with people along the way. 
+I am excited about the possibilities that technology and human connection bring together! 
+
+Let's collaborate for exciting ventures and engaging discussions in coding and optimization. 🚀👨‍💻🤝
