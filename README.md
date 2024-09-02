@@ -1,4 +1,4 @@
-Hello! 
+Hello/Olá! 
 
 I'm Ana. I have an MBA and a background in Psychology. 
 Currently, I am learning to code for exciting new adventures in the field. 
